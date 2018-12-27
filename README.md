@@ -6,11 +6,18 @@ Perl6 Get Things Done Tutorial
 # Install
 
 
-    zef install Tomtit --/test
     git clone https://github.com/melezhik/p6-GTDT
+
+    zef install Tomtit --/test # we need Tomtit task runner to run tutorial Perl6 examples
+
+    tom --bootstrap # we need to bootstrap our system to start using Tomtit
+
+# Run tutorial
+
     cd p6-GTDT
-    tom --bootstrap # bootstrap system to use Tomtit
+
     tom | grep perl6 # list available topics ( scenarios )
+
     tom perl6-sort-grep # run specific topic, Enjoy!
 
 # Asciinema example
