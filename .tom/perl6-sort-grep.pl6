@@ -16,11 +16,9 @@ while (True) {
 
   my $story = %stories{$c};
 
-  bash "strun --root topics/perl6-gtdt-grep-sort/ --task=perl6-gtdt-grep-sort --param story=$story", %(
-    description => "grep-sort\@$story"
-  );
+  shell "strun --root topics/perl6-gtdt-grep-sort/ --task=perl6-gtdt-grep-sort --param story=$story";
 
-  last;
+  #last;
 }
 
 sub choices {
