@@ -11,7 +11,7 @@ Perl6 Get Things Done Tutorial
     cd p6-GTDT
     tom --bootstrap # bootstrap system to use Tomtit
     tom | grep perl6 # list available topics ( scenarios )
-    tom sort-grep # run specific topic, Enjoy!
+    tom perl6-sort-grep # run specific topic, Enjoy!
 
 # Author
 
