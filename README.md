@@ -13,6 +13,10 @@ Perl6 Get Things Done Tutorial
     tom | grep perl6 # list available topics ( scenarios )
     tom perl6-sort-grep # run specific topic, Enjoy!
 
+# Asciinema example
+
+[![asciicast](https://asciinema.org/a/218669.svg)](https://asciinema.org/a/218669)
+
 # Author
 
 Alexey Melezhik
