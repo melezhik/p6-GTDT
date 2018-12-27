@@ -1,9 +1,0 @@
-{
-
-  "name" : "perl6-gtdt-sort-grep",
-  "description" : "Perl6 sort/grep tutorial",
-  "version" : "0.0.1",
-  "sparrow_version": "0.2.50",
-  "category" : "perl6",
-  "url" : "https://github.com/melezhik/p6-GTDT/tree/master/perl6-gtdt-sort-grep"
-}
