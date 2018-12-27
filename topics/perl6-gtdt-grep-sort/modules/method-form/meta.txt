@@ -1,0 +1,5 @@
+by @melezhik
+============
+there is a method form
+to call grep/sort on Array object
+

@@ -4,6 +4,7 @@ my %stories = %(
   1 => 'is-map',
   2 => 'hash-of-arrays',
   3 => 'sort-function',
+  4 => 'method-form'
 );
 
 while (True) {
@@ -32,12 +33,13 @@ choose case to learn:
 1 => is-map
 2 => hash-of-arrays
 3 => sort-function
+4 => method-form
 ---
 type 0 to exit
 HERE
 
     my $r = prompt();
-    if $r ~~ /^ 0| 1 | 2 | 3 $/ {
+    if $r ~~ /^ 0| 1 | 2 | 3 | 4 $/ {
       return $r;
     } else {
       say "\n";
