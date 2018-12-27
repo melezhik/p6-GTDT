@@ -15,7 +15,7 @@ Perl6 Get Things Done Tutorial
 
 # Asciinema example
 
-[![asciicast](https://asciinema.org/a/218669.svg)](https://asciinema.org/a/218669)
+[![asciicast](https://asciinema.org/a/2tu5sbHInFm9N7Vtwbdi8Jo5N.svg)](https://asciinema.org/a/2tu5sbHInFm9N7Vtwbdi8Jo5N)
 
 # Author
 
