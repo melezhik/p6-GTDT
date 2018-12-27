@@ -10,7 +10,7 @@ Perl6 Get Things Done Tutorial
     git clone https://github.com/melezhik/p6-GTDT
     cd p6-GTDT
     tom --bootstrap # bootstrap system to use Tomtit
-    tom # list available topics ( scenarios )
+    tom | grep perl6 # list available topics ( scenarios )
     tom sort-grep # run specific topic, Enjoy!
 
 # Author

@@ -1,0 +1,4 @@
+by @jmerelo
+https://colabti.org/irclogger/irclogger_log/perl6?date=2018-12-27
+=================================================================
+17:08 jmerelo %a<foo> returns a single element, which is a list. You need to de-containerize it (via <> to convert it in a list)

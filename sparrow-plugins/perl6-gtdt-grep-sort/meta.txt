@@ -1,0 +1,3 @@
+this is example how to
+use grep and sort on
+Arrays in Perl6

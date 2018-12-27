@@ -1,0 +1,7 @@
+by @lizmat
+https://colabti.org/irclogger/irclogger_log/perl6?date=2018-12-27
+=================================================================
+In a map, the values are never containerized.
+so the grep doesn't need to decontainerize them
+it actually saves on memory as well
+basically, for all Hashes that you initialize and not change, the "is Map" makes sense

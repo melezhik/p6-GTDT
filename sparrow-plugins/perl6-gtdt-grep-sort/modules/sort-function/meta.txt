@@ -1,0 +1,2 @@
+by @melezhik
+you can use &[cmp] to make string sort
