@@ -1,0 +1,15 @@
+by Elizabeth Mattijsen
+https://opensource.com/article/18/12/calling-subs-and-typing-perl-6
+===
+whenever you call a subroutine (or a method) with a variable as an argument, 
+it will bind to the value in the container.
+And because you cannot assign to a value, you get:
+
+"Cannot assign to a readonly variable or a value"
+
+---
+
+If you want to allow assigning to the outer value, 
+you can add the is rw trait to the variable in the signature. 
+This will bind the variable in the signature to the container 
+of the variable specified, thus allowing assignment
