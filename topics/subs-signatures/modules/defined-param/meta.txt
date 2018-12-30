@@ -1,0 +1,12 @@
+by Elizabeth Mattijsen
+https://opensource.com/article/18/12/calling-subs-and-typing-perl-6
+===
+The :D combined with the Int indicates that you want a Defined value of the Int type. 
+Because :D is also the emoji for a big smile, this decoration on the type is called a "type smiley." 
+So what happens if you pass an undefined value to such a subroutine?
+
+...
+
+Careful readers may realize that this should create a compile-time error. But alas, it 
+hasn't (yet). Although error messages are known to be pretty awesome in Perl 6, there 
+is still a lot of work to make them even better (and more timely, in this case).

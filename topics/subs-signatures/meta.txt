@@ -1,0 +1,4 @@
+Perl6 provides 
+signatures to check input parameters
+at compile and run time
+
