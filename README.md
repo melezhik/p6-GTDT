@@ -20,6 +20,14 @@ Perl6 Get Things Done Tutorial
 
     tom perl6-sort-grep # run specific topic, Enjoy!
 
+# Topics
+
+I try to add new topics, examples constantly. So far it is:
+
+* perl6-sort-grep         // Sort/Grep/Map    
+* perl6-subs-signatures   // Sub signatures and input parameters
+
+
 # Asciinema example
 
 [![asciicast](https://asciinema.org/a/2tu5sbHInFm9N7Vtwbdi8Jo5N.svg)](https://asciinema.org/a/2tu5sbHInFm9N7Vtwbdi8Jo5N)
