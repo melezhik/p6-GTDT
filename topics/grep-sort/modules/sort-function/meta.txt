@@ -1,2 +1,3 @@
 by @melezhik
-you can use &[cmp] to make string sort
+you can use &[cmp] to make both 
+string and int sort
