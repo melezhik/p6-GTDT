@@ -1,0 +1,5 @@
+by SmokeMachine
+https://colabti.org/irclogger/irclogger_log/perl6?date=2019-01-01
+===
+03:29   Xliff   How can I force a function signature to indicate no return value?
+03:32   SmokeMachine  m: sub bla(--> Empty) { return 42 }; bla
