@@ -14,23 +14,25 @@ Perl6 Get Things Done Tutorial
 
 # Run tutorial
 
+Install Bash completion
+
     cd p6-GTDT
 
-    tom | grep perl6 # list available topics ( scenarios )
+    tom --completion
 
-    tom perl6-sort-grep # run specific topic, Enjoy!
+    source ~/.tom_completion.sh
+    
+Choose topic
 
-# Topics
+    tom perl6<TAB> # list available topics
 
-I try to add new topics, examples constantly. So far it is:
+Run examples
 
-* perl6-sort-grep         // Sort/Grep/Map    
-* perl6-subs-signatures   // Sub signatures and input parameters
-
+    tom perl6-sort-grep # I'd like to know about Perl6 Sort/Grep
 
 # Asciinema example
 
-[![asciicast](https://asciinema.org/a/2tu5sbHInFm9N7Vtwbdi8Jo5N.svg)](https://asciinema.org/a/2tu5sbHInFm9N7Vtwbdi8Jo5N)
+[![asciicast](https://asciinema.org/a/KPOxZssvcVe2XZiDfzNtPQzo5.svg)](https://asciinema.org/a/KPOxZssvcVe2XZiDfzNtPQzo5)
 
 # Author
 
