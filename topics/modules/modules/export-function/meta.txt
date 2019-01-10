@@ -1,0 +1,8 @@
+by @melezhik
+
+To create a module that export function
+as Perl5 does through our @EXPORT = qw{foo}
+we need to declare function
+with `is export` after it's name
+
+===

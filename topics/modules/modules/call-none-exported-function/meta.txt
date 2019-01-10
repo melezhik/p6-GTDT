@@ -1,0 +1,26 @@
+by @melezhik
+
+To call NONE-EXPORTABLE module function 
+You should declare this function as `our` 
+inside Perl6 module. 
+
+And call it from outside place as:
+
+::($ModuleName::$FunctionName)()
+
+In Perl5 you don't need any magic like this 
+because you simply may call 
+ANY module function by full name:
+
+Foo::Bar::foo();
+
+It's not the case in Perl6 however.
+
+Notice you don't need to `use` module (you `require` it)
+As you do with exported function usage.
+Just because you get an access to a function 
+By `full name` notation.
+
+This behavior is equivalent to module functions in Perl5.
+
+===

@@ -25,7 +25,7 @@ sub choices {
 say q:to/HERE/;
 choose case to learn:
 =====================
-1 => substitue # hwo to make replacements in strings
+1 => substitue # how to make replacements in strings
 ---
 type 0 to exit
 HERE
