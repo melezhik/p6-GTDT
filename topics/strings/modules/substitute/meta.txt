@@ -1,0 +1,11 @@
+by @melezhik
+
+how to substitute elements in string
+basically we choose between simple
+and regexp substitution
+
+see also 
+
+https://docs.perl6.org/routine/subst
+
+===

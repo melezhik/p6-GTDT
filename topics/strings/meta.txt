@@ -1,0 +1,4 @@
+Some examples on
+String operations
+In Perl6
+
