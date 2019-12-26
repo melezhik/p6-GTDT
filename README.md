@@ -1,17 +1,16 @@
 # p6-GTDT
 
-Perl6 Get Things Done Tutorial
-
+Raku Get Things Done Tutorial
 
 # Install
 
 
     git clone https://github.com/melezhik/p6-GTDT
 
-    zef install Tomtit --/test # we need Tomtit task runner to run tutorial Perl6 examples
+    zef install Tomtit --/test # we need Tomtit task runner to run tutorial examples
 
 
-# Run tutorial
+# Run examples
 
 Install Bash completion
 
