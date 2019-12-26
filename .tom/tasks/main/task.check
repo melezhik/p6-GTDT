@@ -1,0 +1,5 @@
+generator: <<CODE
+!bash
+cd $root_dir/../$(config topic)/$(config subtopic)
+cat task.check
+CODE

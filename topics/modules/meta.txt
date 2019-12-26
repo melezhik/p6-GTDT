@@ -1,4 +1,0 @@
-Some examples on
-Using Modules
-In Perl6
-
