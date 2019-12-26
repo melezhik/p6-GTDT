@@ -1,1 +1,1 @@
-ignore_story_err 1
+ignore_error

@@ -15,5 +15,5 @@ cat example.pl6
 echo ============
 echo output:
 echo ============
-perl6 example.pl6
+perl6 example.pl6 2>&1
 

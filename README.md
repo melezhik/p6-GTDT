@@ -10,7 +10,6 @@ Perl6 Get Things Done Tutorial
 
     zef install Tomtit --/test # we need Tomtit task runner to run tutorial Perl6 examples
 
-    tom --bootstrap # we need to bootstrap our system to start using Tomtit
 
 # Run tutorial
 
@@ -21,18 +20,14 @@ Install Bash completion
     tom --completion
 
     source ~/.tom_completion.sh
-    
-Choose topic
 
-    tom perl6<TAB> # list available topics
+List available examples
 
-Run examples
+    tom raku<TAB>
 
-    tom perl6-sort-grep # I'd like to know about Perl6 Sort/Grep
+Run an example
 
-# Asciinema example
-
-[![asciicast](https://asciinema.org/a/KPOxZssvcVe2XZiDfzNtPQzo5.svg)](https://asciinema.org/a/KPOxZssvcVe2XZiDfzNtPQzo5)
+    tom raku-grep-sort-is-map
 
 # Author
 
